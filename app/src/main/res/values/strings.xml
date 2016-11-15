@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Petshop Adão </string>
+    <string name="senha">senha</string>
+    <string name="login">login</string>
+    <string name="botao_login">login</string>
+    <string name="esqueceu">Cancelar</string>
+    <string name="menu_calc">Calculadora</string>
+    <string name="menu_cad">Cadastro</string>
+    <string name="nome">Nome Cliente</string>
+    <string name="campo_nome">Nome Cliente</string>
+    <string name="contato">Contato</string>
+    <string name="rb_cao">Cão</string>
+    <string name="rb_gato">Gato</string>
+    <string name="check_domi">Buscar em domicilio</string>
+    <string name="valor">Valor</string>
+    <string name="gravar">Gravar</string>
+    <string name="apagar">Apagar</string>
+    <string name="spinnerfidelidade">Fidelidade Cliente</string>
+    <string name="seekaltura">Altura</string>
+    <string name="result">Resultado</string>
+    <string name="voltar">Voltar</string>
+
+</resources>
